@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 
-import Header from "./components/Header";
 import RestaurantNavbar from "./components/RestaurantNavbar";
 import Title from "./components/Title";
 import Rating from "./components/Rating";

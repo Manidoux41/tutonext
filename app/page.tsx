@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 
 import { Inter } from "next/font/google";
-import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import RestaurantCard from "./components/RestaurantCard";
 
