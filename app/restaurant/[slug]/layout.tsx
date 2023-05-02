@@ -1,6 +1,10 @@
 import React from 'react'
 import Header from './components/Header'
 
+export const metadata = {
+  title: 'Opentable | Restaurant'
+}
+
 type Props = {}
 
 export default function Restaurantlayout({children}: {children: React.ReactNode}) {

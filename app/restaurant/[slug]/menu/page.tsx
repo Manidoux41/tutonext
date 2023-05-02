@@ -2,6 +2,10 @@ import React from "react";
 import RestaurantNavbar from "../components/RestaurantNavbar";
 import Menu from "../components/Menu";
 
+export const metadata = {
+  title: 'Opentable | RestaurantMenu'
+}
+
 type Props = {};
 
 export default function RestaurantMenu({}: Props) {

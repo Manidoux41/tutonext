@@ -3,6 +3,10 @@ import React from "react";
 import Header from "./components/Header";
 import Form from "./components/Form";
 
+export const metadata = {
+  title: 'Opentable | Reservation'
+}
+
 type Props = {};
 
 export default function Reserve({}: Props) {
